@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+npm-debug.*
+.idea/*
+.babelrc
+.flowconfig
+.watchmanconfig
+.DS_Store
